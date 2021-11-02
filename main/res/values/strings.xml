@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dropping Ball</string>
+    <string name="btn_start">START</string>
+    <string name="score">Score : %d</string>
+    <string name="missclicks">Misses : %d</string>
+    <string name="start">Start</string>
+    <string name="result_title">GAME OVER</string>
+</resources>
